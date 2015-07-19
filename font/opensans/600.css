@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Semibold-webfont.eot?2013#iefix') format('embedded-opentype'),
+         url('OpenSans-Semibold-webfont.woff?2013') format('woff'),
+         url('OpenSans-Semibold-webfont.ttf?2013') format('truetype'),
+         url('OpenSans-Semibold-webfont.svg?2013#opensans') format('svg');
+    font-style: normal;
+    font-weight: 600;
+}

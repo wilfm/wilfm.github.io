@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Regular-webfont.eot?2013#iefix') format('embedded-opentype'),
+         url('OpenSans-Regular-webfont.woff?2013') format('woff'),
+         url('OpenSans-Regular-webfont.ttf?2013') format('truetype'),
+         url('OpenSans-Regular-webfont.svg?2013#opensans') format('svg');
+    font-style: normal;
+    font-weight: 400;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('OpenSans-Italic-webfont.eot?2013#iefix') format('embedded-opentype'),
+         url('OpenSans-Italic-webfont.woff?2013') format('woff'),
+         url('OpenSans-Italic-webfont.ttf?2013') format('truetype'),
+         url('OpenSans-Italic-webfont.svg?2013#opensans') format('svg');
+    font-style: italic;
+    font-weight: 400;
+}
